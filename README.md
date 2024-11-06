@@ -4,7 +4,7 @@ This project is a Command-Line Interface (CLI) tool that allows you to fetch the
 
 ## Project URL
 Sample solution for the github-user-activity challenge from roadmap.sh.
-
+https://roadmap.sh/projects/github-user-activity 
 
 Visit the project repository at [https://github.com/12siragi/github-user-activity](https://github.com/12siragi/github-user-activity).
 
