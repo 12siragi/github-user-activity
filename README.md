@@ -3,6 +3,8 @@
 This project is a Command-Line Interface (CLI) tool that allows you to fetch the recent activity of a GitHub user and display it in your terminal. The tool interacts with the GitHub API to collect information about commits, issues, pull requests, and other activities, and presents this information in a human-readable format.
 
 ## Project URL
+Sample solution for the github-user-activity challenge from roadmap.sh.
+
 
 Visit the project repository at [https://github.com/12siragi/github-user-activity](https://github.com/12siragi/github-user-activity).
 
